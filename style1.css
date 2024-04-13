@@ -1,0 +1,10 @@
+@font-face{
+    font-family: myfont;
+    src:url(css/jq.otf)
+   }
+#menu1{
+    transition: 0.15s;
+  }
+  #menu1:hover{
+    transition: 0.15s;
+  }
